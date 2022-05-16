@@ -26,7 +26,8 @@ No, I won't upload to nexus, sorry.
     Code base: Azumatt.
     (massive) code help: Grave Bear and Advize iͣzͩeͮ.
 ## Changelog
-
+* 1.2.0 -> Added Worn (and broken [aren't we all?]) State. Also new TS Icon.
+![](https://i.imgur.com/QNvWJ0j.png)
 * 1.1.0 -> Major re-texure. Also Lower texture size on LOD.
 * 1.0.1 -> Thunderstore Description Fix.
 * 1.0.0 -> Thunderstore Upload.
