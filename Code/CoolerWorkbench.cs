@@ -11,7 +11,7 @@ namespace CoolerWorkbench
     public class CoolerWorkbench : BaseUnityPlugin
     {
         private const string ModName = "CoolerWorkbench";
-        private const string ModVersion = "1.0.0";
+        private const string ModVersion = "1.2.0";
         private const string Author = "Bento";
         private const string ModGUID = Author + "." + ModName;
 

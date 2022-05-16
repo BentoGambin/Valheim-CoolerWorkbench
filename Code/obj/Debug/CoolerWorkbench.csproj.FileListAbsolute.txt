@@ -36,3 +36,22 @@ D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkb
 D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.csproj.CopyComplete
 D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.dll
 D:\Arquivos\Documents\Valheim Modding\Code\CoolerWorkbench\obj\Debug\CoolerWorkbench.pdb
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\CoolerWorkbench.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\CoolerWorkbench.pdb
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\0Harmony.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\assembly_guiutils_publicized.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\assembly_utils_publicized.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\assembly_valheim_publicized.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\BepInEx.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\CreatureManager.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\ItemManager.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\PieceManager.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\ServerSync.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\UnityEngine.CoreModule.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\bin\Debug\UnityEngine.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\obj\Debug\CoolerWorkbench.csproj.AssemblyReference.cache
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\obj\Debug\CoolerWorkbench.csproj.CoreCompileInputs.cache
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\obj\Debug\CoolerWorkbench.csproj.CopyComplete
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\obj\Debug\CoolerWorkbench.dll
+D:\Arquivos\Documents\GitHub\Valheim\CoolerWorkbench\Code\obj\Debug\CoolerWorkbench.pdb
