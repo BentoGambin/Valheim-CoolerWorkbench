@@ -27,6 +27,7 @@ No, I won't upload to nexus, sorry.
     (massive) code help: Grave Bear and Advize iͣzͩeͮ.
 ## Changelog
 
+* 1.3.0 -> Updated ingame icon, updated model to be more detailed. Added 'Break' animation. Changed Recipe to use coorewood instead of wood.
 * 1.2.0 -> Added Worn (and broken [aren't we all?]) State. Also new TS Icon.
 ![](https://i.imgur.com/QNvWJ0j.png)
 * 1.1.0 -> Major re-texure. Also Lower texture size on LOD.

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bc8674b-5c80-48bb-858a-dcaab4782590" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CoolerWorkbench.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CoolerWorkbench.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output-Build.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/cooler_workbench" beforeDir="false" afterPath="$PROJECT_DIR$/assets/cooler_workbench" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Blender Project CWB.blend" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Blender Project CWB.blend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/Blender Project CWB.blend1" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/Blender Project CWB.blend1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/CWBicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/CWBicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Unity/CWBicon_c.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Unity/CWBicon_c.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29YH7XmnYzj0vSXRMrm5UPtVtW2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bc8674b-5c80-48bb-858a-dcaab4782590" name="Changes" comment="" />
+      <created>1653282931824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653282931824</updated>
+      <workItem from="1653282939360" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
