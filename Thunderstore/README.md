@@ -1,3 +1,4 @@
+![](https://github.com/BentoGambin/Valheim-CoolerWorkbench/blob/main/Thunderstore/icon.png?raw=true)
 # Cooler Workbench
 
 At it's core this is a simple alternative to the early-game looking workbench. For some, it's just a pretty remodel, but, for those of us who can't stand a second longer looking at that ugly and messy comglomerate of planks and stones that some call a workbench, it is salvation.
